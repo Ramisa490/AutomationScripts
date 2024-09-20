@@ -15,6 +15,7 @@ This project automates the testing of the Caretech Support form on the Pflegetec
 - **Selenium WebDriver** for browser automation.
 - **Cucumber** for BDD.
 - **Maven** for dependency management.
+- **Aquality Framework** for test management.
 
 ## How to Run:
 1. Clone the repository.
