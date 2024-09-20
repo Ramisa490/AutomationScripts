@@ -8,7 +8,7 @@ This project automates the testing of the Caretech Support form on the Pflegetec
 ## Project Structure:
 - **src/test/resources/features**: Contains the **Gherkin feature files** written in BDD format.
 - **src/test/java/stepDefinitions**: Contains the **step definition classes** that map the Gherkin steps to the actual automation code.
-- **src/main/java/pages**: Contains the **Page Object Model (POM)** classes for the Caretech Support form elements and actions.
+- **src/main/java/pages**: Contains the **Page Object Model (POM)** classes for the Caretech Support form elements and actions. 
 
 ## Tools & Technologies:
 - **Java** for scripting.
